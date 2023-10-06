@@ -1,0 +1,1 @@
+yt-dlp -a adv.txt -f 136+140 >> download.log
